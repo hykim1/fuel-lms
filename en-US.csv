@@ -1,0 +1,60 @@
+Course Id,Title,Short_Description,Description,Learning_Objectives,Audience,Lessons_and_Topics,Pre_Work_Author,Pre_Work_Title
+TVB101,Trailblazer Virtual Bootcamp for Salesforce Associates,"Join the 30-day Trailblazer Virtual Bootcamp for Salesforce Associates to gain core Salesforce skills, earn the Salesforce Certified Associate certification, and explore the Salesforce Ecosystem.","Discover the endless possibilities that are available in the Salesforce Ecosystem. Learn about the Customer 360 Platform and build foundational Salesforce skills — in just 30 days! Trailblazer Virtual Bootcamp for Salesforce Associates is a blended, prescriptive, expert-led learning program that gives you a plan to learn core knowledge to skill up on the Customer 360 Platform, and fast-track to the Salesforce Certified Associate certification. The program is a mix of engaging bite-sized Trailhead content and live coaching from Salesforce Certified instructors. Twice a week, tune in and review each week’s learning with your instructor and ask questions. The class includes one voucher to sit for the Salesforce Certified Associate exam (valued at $75 USD).","When you complete this course, you’ll be able to:
+Describe various resources available to learn and apply in-demand Salesforce skills.
+Identify which Customer 360 product offerings could be used in a given scenario.
+Describe how companies use Salesforce.
+Differentiate between various job roles and career paths in the Salesforce ecosystem.
+Navigate how a user locates and accesses necessary information.
+Navigate where Salesforce customization takes place.
+Learn the relationship between the core standard objects. 
+Determine which feature to use to ensure data visibility.
+Know which tools to use to ensure data integrity.
+Describe Salesforce reports and dashboards.","Trailblazer Virtual Bootcamp for Salesforce Associates is designed for anyone new to the Salesforce ecosystem interested in learning and gaining the knowledge and skills to work on the Customer 360 Platform with a flexible, self-paced learning schedule. It’s also ideal for anyone looking to earn their Salesforce Certified Associate credential. ","Week 1: Salesforce Ecosystem and Enablement
+
+Describe Salesforce Resources
+Identify Customer 360 Product Offerings
+Describe How to Use Salesforce
+Identify Job Roles and Careers 
+
+Week 2: Salesforce Platform Basics
+
+Navigate the Salesforce Interface
+Navigate Salesforce Setup
+Get Started with Salesforce Architecture 
+
+Week 3: Salesforce Data Model & Visibility
+
+Explain Object Relationships
+Ensure Data Visibility and Data Quality 
+
+Week 4: Salesforce Analytics
+
+Visualize Data with Reports and Dashboards ",,
+MKT301,Implement Marketing Cloud Personalization ,"Master Marketing Cloud Personalization in a 3-day class. Discover how to deliver AI-driven, 1-to-1 personalized customer experiences.","Discover how to implement Marketing Cloud Personalization and deliver relevant AI-driven, 1-to-1 personalized customer experiences that optimize conversions and reduce costs. In this 3-day expert-led class, learn how to set up Personalization and use it to collect customer data, interactions, and activity. Discover how to define audience segments based on criteria you specify, create Einstein Recipes to understand user behaviors, use channels and campaigns to interact with visitors and customers, and finally, use reports and dashboards to get actionable user insights so you can increase customer retention, drive brand loyalty, and solidify lifetime value.","Explain how Marketing Cloud Personalization creates 1-to-1 customer experiences in real time.
+Appropriately consider how the data model and platform architecture of Marketing Cloud Personalization may influence an implementation.
+Identify the core components of a standard Marketing Cloud Personalization implementation.
+Guide your customers through the implementation discovery process.
+Navigate the Marketing Cloud Personalization interface, add user roles, create user accounts, and create and manage SFTP (Secure File Transfer Protocol) user accounts.
+Examine the Marketing Cloud Personalization web Software Development Kit (SDK) beacon and know how to deploy it.
+Navigate site, page, and catalog data-mapping.
+Load data into Marketing Cloud Personalization.
+Create and use Marketing Cloud Personalization segments.
+Configure Einstein Recipes in Marketing Cloud Personalization.
+Explain how web campaigns and templates work together in website personalization.
+Use Triggered Campaigns in Marketing Cloud Personalization.
+Utilize Event APIs, Server-Side Campaigns, Open-Time Email Campaigns, and Trends to personalize various web channels.
+Analyze user behavior and activity with Reports and Dashboards.","While this class is designed for consultants and partners who are tasked with implementing Marketing Cloud Personalization solutions for clients and across organizations, anyone interested in Marketing Cloud Personalization is encouraged to attend. This is also a great class for partners looking to earn their Marketing Cloud Personalization Accredited Professional Credential.","Introduction to Marketing Cloud Personalization
+
+Understand the importance of creating personalized customer experiences.
+Identify business challenges that inhibit organizations from delivering tailored customer experiences.
+Discover the importance and benefits of Real-Time Interaction Management.
+Define Marketing Cloud Personalization and how it works.
+ 
+
+Implementation Basics
+
+Examine the key components of Marketing Cloud Personalization.
+Learn how to prepare for a standard implementation.
+Outline the standard implementation process.
+Create a campaign strategy.
+Understand Marketing Cloud Personalization data flow.",,
